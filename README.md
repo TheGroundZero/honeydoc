@@ -17,5 +17,5 @@ Optional arguments:
     -e EXT, --ext EXT         File extension.
                               Default is doc
 
-Example of how to set a custom document title and image:
+Example of how to set a custom document title and image:  
 `python.exe HoneyDoc.py -t "MyCompany Employee Info" -c 20 -b -u http://www.mysite.com/image.jpg`
